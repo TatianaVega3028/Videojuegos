@@ -63,9 +63,12 @@
     <Compile Include="Assets\Scripts\MasterInfo.cs" />
     <Compile Include="Assets\Scripts\MainMenuControl.cs" />
     <Compile Include="Assets\Scripts\CollectCBottle.cs" />
+    <Compile Include="Assets\Scripts\CollectBox.cs" />
     <Compile Include="Assets\Scripts\SegementGenerator.cs" />
     <Compile Include="Assets\Scripts\CollectableRotate.cs" />
     <Compile Include="Assets\Scripts\CollisionDetect.cs" />
+    <Compile Include="Assets\Scripts\LoadToStage.cs" />
+    <Compile Include="Assets\Scripts\StateControlls.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +87,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Cardboard Box (Rigged)\ReadMe.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
